@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou o Guilherme Alonso ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alonsogui_/)
